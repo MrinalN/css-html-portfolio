@@ -13,6 +13,8 @@ https://coolors.co/f7fff7-343434-2f3061-ffe66d-a1c6d7
 ------------------------------------*/
 body {
   color: #343434;
+  margin: 0;
+  padding: 0;
 }
 img {
   width: 300px;
@@ -22,6 +24,14 @@ a {
 }
 a:hover {
   text-decoration: none;
+}
+h2 {
+  margin: 0;
+}
+.content-wrap {
+  width: 800px;
+  margin: 0 auto;
+  padding: 60px 0;
 }
 
 
@@ -47,6 +57,7 @@ header {
   text-decoration: none;
   padding: 8px;
   border-radius: 4px;
+  display: inline-block;
 }
 .projects .btn:hover {
   background-color: rgba(47, 48, 97, 80%);
