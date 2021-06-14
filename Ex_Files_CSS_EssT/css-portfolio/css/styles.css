@@ -15,6 +15,7 @@ body {
   color: #343434;
   margin: 0;
   padding: 0;
+  font-family: 'Montserrat', sans-serif;
 }
 img {
   width: 300px;
@@ -27,6 +28,9 @@ a:hover {
 }
 h2 {
   margin: 0;
+}
+h1, h2 {
+  font-family: 'Caveat', cursive;
 }
 .content-wrap {
   width: 800px;
