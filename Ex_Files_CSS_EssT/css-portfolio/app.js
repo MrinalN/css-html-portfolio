@@ -4,9 +4,9 @@ const PORT = 8080;
 
 app.set("view engine", "ejs");
 
-// app.get("/", (req, res) => {
-//   res.render("index");
-// });
+app.get("/", (req, res) => {
+  res.render("portfolio_index");
+});
 
 app.listen(PORT, () => {
   console.log(`Example app listening on port ${PORT}`);
