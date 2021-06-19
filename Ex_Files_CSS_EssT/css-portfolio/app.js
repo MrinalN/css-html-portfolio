@@ -12,6 +12,7 @@ app.use('/images', express.static(__dirname + 'public/images'))
 app.set('views', './src/views');
 app.set('view engine', 'ejs');
 
+
 app.get("/", (req, res) => {
   res.render("portfolio_index");
   // res.send("<html><body>Hello <b>World</b></body></html>\n");
