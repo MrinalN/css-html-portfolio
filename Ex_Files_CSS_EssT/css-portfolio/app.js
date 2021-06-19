@@ -6,6 +6,7 @@ app.set("view engine", "ejs");
 
 app.get("/", (req, res) => {
   res.render("portfolio_index");
+  // res.send("<html><body>Hello <b>World</b></body></html>\n");
 });
 
 app.listen(PORT, () => {
