@@ -28,7 +28,7 @@ body {
 img {
   width: 500px;
   padding-top: 20px;
-  padding-bottom: 40px;
+  padding-bottom: 60px;
 }
 a {
   color: #e8af04;
@@ -141,9 +141,10 @@ header img {
 /* Education
 ------------------------------------*/
 .education {
-  background-image: url(../images/joanna-kosinska-unsplash.jpg);
+  /* background-image: url(../images/joanna-kosinska-unsplash.jpg);
   background-size: cover;
-  background-position: top right;
+  background-position: top right; */
+  background-color: #e8af04;
   padding-bottom: 100px;
 }
 .education p {
