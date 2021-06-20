@@ -26,7 +26,9 @@ body {
   line-height: 1.5;
 }
 img {
-  width: 300px;
+  width: 500px;
+  padding-top: 20px;
+  padding-bottom: 40px;
 }
 a {
   color: #e8af04;
@@ -124,6 +126,7 @@ header img {
 .project-item h3 {
   margin-top: 0;
 }
+
 
 /* Work Experience
 ------------------------------------*/
