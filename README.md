@@ -6,7 +6,7 @@
 
 <h1>Simple Portfolio</h1>
 <h3>Exercise turned 'Smallest Footprint" website prototype.</h3>
-
+</div>
 
 
 # 💡 About
